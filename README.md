@@ -436,3 +436,7 @@ B.Tech Computer Science & Engineering
 # 📌 Disclaimer
 
 FraudShield AI is a proof-of-concept developed for educational and research purposes. It is not a production banking or payment-security system.
+## 📄 License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
