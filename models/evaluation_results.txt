@@ -1,0 +1,22 @@
+FRAUDSHIELD AI - MODEL EVALUATION
+=================================
+
+Accuracy  : 94.67%
+Precision : 94.52%
+Recall    : 85.19%
+F1 Score  : 89.61%
+ROC-AUC   : 93.49%
+
+Confusion Matrix:
+[[430   8]
+ [ 24 138]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      Normal       0.95      0.98      0.96       438
+       Fraud       0.95      0.85      0.90       162
+
+    accuracy                           0.95       600
+   macro avg       0.95      0.92      0.93       600
+weighted avg       0.95      0.95      0.95       600
